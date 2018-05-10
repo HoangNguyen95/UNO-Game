@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UNOGame</string>
+    <string name="playUnoButtonText">Play UNO</string>
+    <string name="quitButtonText">Quit UNO</string>
+    <string name="totalCardsOnDeck">%1$d cards \n remaining</string>
+    <string name="topCardOnPile">Top of pile</string>
+    <string name="opponentDeck">Computer have %1$d cards left</string>
+    <string name="waitForOpponent">Please wait</string>
+    <string name="currentCardOnPile">%1$s</string>
+    <string name="playerDeck">Please select a card from your hand or pick up card</string>
+    <string name="pickUpCard">Pick Up Card</string>
+    <string name="quit">Quit</string>
+</resources>
